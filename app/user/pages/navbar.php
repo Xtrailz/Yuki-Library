@@ -2,9 +2,9 @@
     <!-- Logo -->
     <a href="dashboard" class="logo" style="font-family: 'Quicksand', sans-serif">
         <!-- mini logo for sidebar mini 50x50 pixels -->
-        <span class="logo-mini"><b>P</b>CS</span>
+        <span class="logo-mini"><b>Y</b>Lib</span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg"><b>Perpustakaan </b>LTE CS</span>
+        <span class="logo-lg"><b>Yuki </b>Library</span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
