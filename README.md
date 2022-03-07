@@ -35,8 +35,10 @@
 * Info Lebih Lanjut, Contact saya di [sini](https://linktr.ee/hillalzian)
 
 ## Thanks to :
-<a href="https://github.com/ColorlibHQ"><img src="https://github.com/ColorlibHQ.png?size=100" width="100" height="100"></a> | [![Zian](http://github.com/Xtrailz.png?size=100)](http://github.com/Xtrailz) 
+<a href="https://github.com/ColorlibHQ"><img src="https://github.com/ColorlibHQ.png?size=100" width="100" height="100"></a> | [![Zian](http://github.com/Xtrailz.png?size=100)](http://github.com/Xtrailz)
+---|--- 
 [ColorlibHQ](https://github.com/ColorlibHQ)  | [Zian](https://github.com/Xtrailz)
+Admin.LTE Template | Yuki Library Source Code
 
 
 ID : Silahkan gunakan repo ini sebagai refrensi untuk anda, jangan lupa cantumkan credit di README.md <br>
