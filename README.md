@@ -28,7 +28,7 @@
 ---
 
 ## Information
-> Yuki Library adalah aplikasi perpustakaan berbasi web menggunakan php dengan framework css dan template Admin.LTE
+> Yuki Library adalah aplikasi perpustakaan berbasis web menggunakan php dengan framework css dan template Admin.LTE
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
