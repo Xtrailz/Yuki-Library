@@ -187,7 +187,7 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`id_user`, `kode_user`, `nis`, `fullname`, `username`, `password`, `kelas`, `alamat`, `verif`, `role`, `join_date`, `terakhir_login`) VALUES
 (1, '-', '-', 'Administrator', 'admin', 'admin', '-', '-', 'Iya', 'Admin', '04-05-2021', '08-01-2022 ( 18:54:19 )'),
-(2, 'AP001', '123', 'Gunawan', 'gunawan', 'Gunawan', 'X - Administrasi Perkantoran', 'Bandung', 'Tidak', 'Anggota', '08-01-2022', '');
+(2, 'AP001', '123', 'Zian', 'ziann', 'Zian', 'X - Administrasi Perkantoran', 'Bogor', 'Tidak', 'Anggota', '08-01-2022', '');
 
 --
 -- Indexes for dumped tables
